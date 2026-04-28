@@ -21,3 +21,4 @@ ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-168/tarefa-xx
 ## Release VII
 
 feat/NRV-172/tarefa-xxiii
+feat/NRV-204/tarefa-xxv
