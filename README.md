@@ -17,3 +17,7 @@ Esse commit pertence ao repo secundário de teste - feat/NRV-154/tarefa-xix
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-165/tarefa-xix
 
 ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-168/tarefa-xxi
+
+## Release VII
+
+feat/NRV-172/tarefa-xxiii
