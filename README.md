@@ -12,3 +12,6 @@ Esse commit pertence ao repo secundário de teste - feat/NRV-151/tarefa-xiii
 
 Esse commit pertence ao repo secundário de teste - feat/NRV-154/tarefa-xix
 
+## Release VI
+
+ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-165/tarefa-xix
