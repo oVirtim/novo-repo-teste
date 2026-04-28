@@ -22,3 +22,4 @@ ESSE COMENTÁRIO FOI FEITO PELA BRANCH DO SIMPLI-PROJECTS feat/NRV-168/tarefa-xx
 
 feat/NRV-172/tarefa-xxiii
 feat/NRV-204/tarefa-xxv
+feat/NRV-206/tarefa-xxvii
